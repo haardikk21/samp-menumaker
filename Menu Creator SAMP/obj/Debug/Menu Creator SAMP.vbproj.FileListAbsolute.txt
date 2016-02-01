@@ -1,0 +1,20 @@
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\bin\Debug\Menu Creator SAMP.exe
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\bin\Debug\Menu Creator SAMP.pdb
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\bin\Debug\Menu Creator SAMP.xml
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\Menu_Creator_SAMP.Form1.resources
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\Menu_Creator_SAMP.Resources.resources
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.vbproj.GenerateResource.Cache
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.exe
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.xml
+C:\Users\Haardik\AppData\Local\Temporary Projects\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.pdb
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.exe
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.xml
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.pdb
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\bin\Debug\Menu Creator SAMP.exe
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\bin\Debug\Menu Creator SAMP.pdb
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\bin\Debug\Menu Creator SAMP.xml
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\Menu_Creator_SAMP.Form1.resources
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\Menu_Creator_SAMP.Resources.resources
+C:\Users\Haardik\Documents\Visual Studio 2008\Projects\Menu Creator SAMP\Menu Creator SAMP\obj\Debug\Menu Creator SAMP.vbproj.GenerateResource.Cache
